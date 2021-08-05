@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "theepic:blocks/large_shulker_box",
+    "up": "theepic:blocks/large_shulker_box",
+    "north": "theepic:blocks/large_shulker_box",
+    "east": "theepic:blocks/large_shulker_box",
+    "south": "theepic:blocks/large_shulker_box",
+    "west": "theepic:blocks/large_shulker_box",
+    "particle": "theepic:blocks/large_shulker_box"
+  }
+}

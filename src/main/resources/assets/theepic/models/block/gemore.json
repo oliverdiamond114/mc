@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "theepic:blocks/gem_ore",
+    "up": "theepic:blocks/gem_ore",
+    "north": "theepic:blocks/gem_ore",
+    "east": "theepic:blocks/gem_ore",
+    "south": "theepic:blocks/gem_ore",
+    "west": "theepic:blocks/gem_ore",
+    "particle": "theepic:blocks/gem_ore"
+  }
+}
